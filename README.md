@@ -1,4 +1,4 @@
-# 数据挖掘互评作业四：离群点分析与异常检测
+# 数据挖掘作业四：离群点分析与异常检测
 
 ## 1. 问题描述
 
@@ -7,3 +7,6 @@
 ## 2. 数据来源
 
 ### Anomaly Detection Meta-Analysis Benchmarks https://ir.library.oregonstate.edu/concern/datasets/47429f155?locale=en
+## 3. 选择的数据集
+### wine_benchmarks
+### abalone_benchmarks
